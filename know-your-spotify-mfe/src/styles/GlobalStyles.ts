@@ -1,4 +1,4 @@
-import { createGlobalStyle } from 'styled-components'
+import { createGlobalStyle } from "styled-components";
 
 export default createGlobalStyle`
     *{
@@ -35,4 +35,4 @@ export default createGlobalStyle`
         --link: #5d80d6;
  
     }
-`
+`;
